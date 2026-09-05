@@ -43,6 +43,6 @@ Power BI Desktop, DAX, Power Query - star schema, custom measures, and a mobile-
 ![Demo](assets/demo.gif)
 ## Files
 - [Superstore Sales & Profit Analysis.pbix](Superstore%20Sales%20&%20Profit%20Analysis.pbix) - download and open in Power BI Desktop to explore the interactive report
--`assets/` - screenshots and demo GIF  used in this README
+- `assets/` - screenshots and demo GIF  used in this README
 ## Data Source
 This project uses the public Superstore sample dataset, commonly used for BI practice and portfolio projects.
