@@ -41,7 +41,7 @@ Power BI Desktop, DAX, Power Query - star schema, custom measures, and a mobile-
 ![Geographic Analysis Mobile](assets/maps-mobile.png)
 ### Demo
 ![Demo](assets/demo.gif)
-##Files
+## Files
 - [Superstore Sales & Profit Analysis.pbix](Superstore%20Sales%20&%20Profit%20Analysis.pbix) - download and open in Power BI Desktop to explore the interactive report
 -`assets/` - screenshots and demo GIF  used in this README
 ## Data Source
