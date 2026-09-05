@@ -33,12 +33,8 @@ Power BI Desktop, DAX, Power Query - star schema, custom measures, and a mobile-
 ### Data Model
 ![Star Schema](assets/star-schema.png)
 ### Mobile Layout
-![Executive Overview Desktop](assets/executive-overview.png)
-|
-![Executive Overview Mobile](assets/executive-overview-mobile.png)
-![Geographic Analysis Desktop](assets/geographic.png)
-|
-![Geographic Analysis Mobile](assets/maps-mobile.png)
+![Executive Overview Desktop](assets/executive-overview.png) | ![Executive Overview Mobile](assets/executive-overview-mobile.png)
+![Geographic Analysis Desktop](assets/geographic.png) | ![Geographic Analysis Mobile](assets/maps-mobile.png)
 ### Demo
 ![Demo](assets/demo.gif)
 ## Files
